@@ -1,0 +1,8 @@
+Task: Slicing Design
+
+1. TASK 1, src/components/pages
+    - list-order-page.tsx
+    - detail-order-page.tsx
+2. TASK 2, 
+    - src/app/(customer)/customer/page.tsx
+    - scr/app/(customer)/customer/order/[Id]/page.tsx
